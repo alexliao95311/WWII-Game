@@ -27,3 +27,8 @@ while True:
 
 print('Loading game... Please wait patiently.')
 time.sleep(3.8)
+while True:
+    print('Hitler and the Nazis are coming...\n\nYou are in Poland, a soldier who has just completed training.\nNow, The Germans are coming, and you need to defend your country.')
+    time.sleep(2)
+    print('Welcome to your first mission: The Invasion of Poland.\nMission Overview:\nSide: Poland\nRank: Soldier\nEnemyfront: German Soldiers\nHow to pass mission: force the German army to retreat.')
+
